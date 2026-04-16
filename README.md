@@ -1,5 +1,1 @@
-# end.sub.lenguage
-
-
-end language function
-
+templete to basic compiler
